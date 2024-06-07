@@ -1,0 +1,14 @@
+.lista h1{
+    background-color: blue;
+    height: 600px;
+    text-align: center;
+    margin: 10%;
+   
+   
+}
+.rectangulo{
+    width: 100;
+    height: 100;
+    border: 50px;
+    background-color: aliceblue;
+}
